@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "clipboard": "^2.0.8",
-    "codemirror": "^5.61.1",
+    "codemirror": "^5.62.0",
     "dropzone": "^5.9.2",
     "markdown-it": "^12.0.6",
     "markdown-it-task-lists": "^2.1.1",
